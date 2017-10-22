@@ -1,0 +1,8 @@
+D:\Here_You_Dick\IT\Computer\Programming\C#\cinemaManagement\cinemaManagement\obj\Debug\cinemaManagement.csprojResolveAssemblyReference.cache
+D:\Here_You_Dick\IT\Computer\Programming\C#\cinemaManagement\cinemaManagement\obj\Debug\cinemaManagement.filmList.resources
+D:\Here_You_Dick\IT\Computer\Programming\C#\cinemaManagement\cinemaManagement\obj\Debug\cinemaManagement.MainForm.resources
+D:\Here_You_Dick\IT\Computer\Programming\C#\cinemaManagement\cinemaManagement\obj\Debug\cinemaManagement.csproj.GenerateResource.Cache
+D:\Here_You_Dick\IT\Computer\Programming\C#\cinemaManagement\cinemaManagement\obj\Debug\cinemaManagement.danhSachBuoiChieu.resources
+D:\Here_You_Dick\IT\Computer\Programming\C#\cinemaManagement\cinemaManagement\obj\Debug\cinemaManagement.danhSachPhongChieu.resources
+D:\Here_You_Dick\IT\Computer\Programming\C#\cinemaManagement\cinemaManagement\obj\Debug\cinemaManagement.HTRap.resources
+D:\Here_You_Dick\IT\Computer\Programming\C#\cinemaManagement\cinemaManagement\obj\Debug\cinemaManagement.heThongRap.resources
